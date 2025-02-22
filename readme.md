@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaushik Kishore
 
-Senior Staff Engineer building [Astuto](https://github.com/astuto). I specialize in cloud infrastructure optimization and distributed systems.
+Senior Staff Engineer building [Astuto](https://github.com/astuto). I specialize in cloud infrastructure optimization and distributed systems. Open source contributor to [Steampipe](https://github.com/turbot/steampipe).
 
 ## 🛠️ Tech Stack
 - **Languages:** Go, Python, Node.js, C# (.NET), SQL
@@ -13,6 +13,7 @@ Senior Staff Engineer building [Astuto](https://github.com/astuto). I specialize
 - Built scalable multi-account AWS resource analyzers
 - Developed policy-driven cloud cost optimization engines
 - Architected real-time risk management systems
+- Active contributor to Steampipe - an open source tool for cloud infrastructure querying
 
 ## 🔍 Featured Projects
 - **CloudScope:** Multi-Account AWS Resource Analyzer
